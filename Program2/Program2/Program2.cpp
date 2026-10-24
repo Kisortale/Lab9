@@ -27,4 +27,6 @@ int main()
     c = multiply(a, b);
 
     cout << "Proizvedenie a*b: " << c << "\n";
+
+    cout << "Rebase test\n";
 }
